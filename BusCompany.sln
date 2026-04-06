@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buscompany.UnitTests", "Bus
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusCompany", "BusCompany\BusCompany.csproj", "{589D6C8F-E7E0-4423-BF27-E2F9E2F35B57}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusCompany.Specs", "BusCompany.Specs\BusCompany.Specs.csproj", "{FB692388-782E-440F-AF6C-099643B4D8A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,5 +21,9 @@ Global
 		{589D6C8F-E7E0-4423-BF27-E2F9E2F35B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{589D6C8F-E7E0-4423-BF27-E2F9E2F35B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{589D6C8F-E7E0-4423-BF27-E2F9E2F35B57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB692388-782E-440F-AF6C-099643B4D8A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB692388-782E-440F-AF6C-099643B4D8A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB692388-782E-440F-AF6C-099643B4D8A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB692388-782E-440F-AF6C-099643B4D8A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
