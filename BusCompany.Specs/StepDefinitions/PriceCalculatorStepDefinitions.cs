@@ -21,4 +21,10 @@ public sealed class PriceCalculatorStepDefinitions
     {
         throw new PendingStepException();
     }
+
+    [Then("the distance should be rejected")]
+    public void ThenTheDistanceShouldBeRejected()
+    {
+        throw new PendingStepException();
+    }
 }
